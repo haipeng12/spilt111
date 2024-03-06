@@ -1,2 +1,8 @@
 # spilt111
 Improve Fine-Grained Feature Learning for Fine-Grained Vis-ual Recognition in GAI
+
+you  need to import the data and partition the dataset yourself.
+The dataset code is publicly available at: https://github.com/hellodfan/GrainSpace
+To use this dataset, you need to convert its image types and then divide the training and testing sets in your own way.
+Recommended use R1-14P600，R1-14G600、R1-14M600 dataset。
+
